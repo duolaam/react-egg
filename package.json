@@ -1,0 +1,19 @@
+{
+  "name": "react-egg",
+  "version": "1.0.0",
+  "description": "react 学习项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duolaam/react-egg.git"
+  },
+  "author": "kent",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duolaam/react-egg/issues"
+  },
+  "homepage": "https://github.com/duolaam/react-egg#readme"
+}
